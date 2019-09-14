@@ -34,4 +34,6 @@ add_library(${PROJECT_NAME}
                     hrtftable.cpp
 )
 
-target_link_libraries(${PROJECT_NAME} PUBLIC winmm.lib )
+if(WIN32)
+    target_link_libraries(${PROJECT_NAME} PUBLIC winmm.lib )
+endif(WIN32)
