@@ -16,6 +16,6 @@ Where the `*generator*` is :
 * nothing or `Unix Makefiles` for linux or osx makefiles
 * `Xcode` for Apple's Xcode
 * `Ninja` for Microsoft command line build
-* `Visual Studio 15 2017 Win64` for Visual Studio solution generation
+* `Visual Studio 15 2017 Win64` for Visual Studio 2017 solution generation
 
 After this the buildtool can be invoked (make or ninja) or the ide project/solution file can be opened.
