@@ -1,7 +1,7 @@
 # unity-nativeaudioplugins
 
 The unity native audio SDK integrated with cmake.
-Use the most recent version of cmake when possible (at time of writing it was 3.15.3.
+Use the most recent version of cmake when possible, at time of writing it was 3.15.3.
 
 ## Building
 
