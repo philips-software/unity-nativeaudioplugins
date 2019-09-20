@@ -18,4 +18,6 @@ Where the `*generator*` is :
 * `Ninja` for Microsoft command line build
 * `Visual Studio 15 2017 Win64` for Visual Studio 2017 solution generation
 
-After this the buildtool can be invoked (make or ninja) or the ide project/solution file can be opened.
+The buildtool can be invoked (make or ninja) or the ide project/solution file can be opened.
+
+More generators can be found on [this page](https://cmake.org/cmake/help/v3.15/manual/cmake-generators.7.html)
